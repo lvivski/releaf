@@ -1,0 +1,21 @@
+{
+  "name": "releaf",
+  "version": "0.0.1",
+  "description": "React component for Leaflet",
+  "main": "index.js",
+  "style": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leaflet",
+    "react",
+    "map"
+  ],
+  "author": "Yehor Lvivski <lvivski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "leaflet": "^1.0.0-beta.2",
+    "react": "^0.14.0"
+  }
+}
